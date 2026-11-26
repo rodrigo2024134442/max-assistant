@@ -1,0 +1,20 @@
+# Secrets - NEVER commit
+credentials.json
+token.json
+*.env
+
+# Personal logs
+max_log.jsonl
+*.jsonl
+
+# Voice model (download separately, see README)
+*.onnx
+*.onnx.json
+
+# Local tests with personal data
+teste_google.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/

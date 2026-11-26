@@ -1,0 +1,13 @@
+ollama
+requests
+colorama
+pyperclip
+ddgs
+faster-whisper
+sounddevice
+numpy
+keyboard
+piper-tts
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
